@@ -1,8 +1,16 @@
 header {
-	display: flex;
-	flex-wrap: wrap;
 	justify-content: center;
-    	background-color: #fff
+  background-color: #fff;
+}
+
+main {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.audio-controls {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 img {
