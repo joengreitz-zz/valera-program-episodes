@@ -8,3 +8,25 @@ header {
 img {
   max-width: 100%;
 }
+
+h1 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #3C3C3C;
+}
+
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 12px;
+  color: #3C3C3C;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px
+  color: #3C3C3C;
+}
